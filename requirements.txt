@@ -1,0 +1,9 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+openpyxl
+oauth2client
+plotly>=5.0.0
+gspread
