@@ -5,5 +5,3 @@ pydeck
 streamlit
 openpyxl
 gspread
-plotly.express
-io
