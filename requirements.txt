@@ -5,5 +5,5 @@ pydeck
 streamlit
 openpyxl
 oauth2client
-plotly
+plotly>=5.0.0
 gspread
