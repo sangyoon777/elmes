@@ -4,6 +4,7 @@ pandas
 pydeck
 streamlit
 openpyxl
+gspread
 time
 plotly.express
 io
